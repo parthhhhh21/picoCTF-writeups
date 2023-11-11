@@ -1,0 +1,36 @@
+FORBIDDEN PATHS :
+
+•	It is  given we can’t use absolute file paths.
+
+•	But the path to the flag is given in the question.
+
+•	Therefore we must access each directory separately as it is given in the question.
+
+•	The command to access parent directories of the
+cwd is ../
+
+•	Its given that we have to climb up 4 directories to
+get to the flag.
+
+The following command is given in the text box:
+
+
+![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/1e163477-d626-4c9f-a448-14c5bbeccb8e)
+
+
+ 
+And we get our flag :
+
+
+![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/030d5ba8-af6c-4d3c-a56a-e563c04d5b4f)
+
+
+
+ 
+
+FLAG :
+
+
+picoCTF{7h3_p47h_70_5ucc355_e5a6fcbc}
+
+
