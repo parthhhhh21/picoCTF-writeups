@@ -6,7 +6,9 @@ Created a first list called message with the text from the question(message.txt)
 
 A second list called decryptGuide with the orientations to decode the result :
 •	Alphabet: 0-25 is the alphabet in uppercase using the lib string
+
 •	Decimals: 26-35 are the decimal digits
+
 •	Underscore: 36 is an underscore
 
 
