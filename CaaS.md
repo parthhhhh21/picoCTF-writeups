@@ -1,0 +1,35 @@
+Caas :  
+
+
+Clicked on the link given in the question and got the following :
+
+![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/6517d2e3-78e8-4427-9581-32d1b51d4366)
+
+
+Copied the url and it redirected to another site :
+
+![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/ac7d41a1-0f52-4833-9a6e-2a3d488dec3e)
+
+After seeing the source code, I saw that it prints whatever is supplied after /cowsay in URL. Thus, checking it with writing ‘whatever’ and got the following :
+
+![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/c6c79aa7-5b09-4503-bca7-80098e0750d7)
+
+I used ; for separating 2 commands. ‘url/cowsay/whatever; ls’ for listing the current directory.
+
+![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/a26c352c-4972-40c6-86c1-09d5e7195a7c)
+
+url/cowsay/whatever; cat falg.txt for reading the flag.
+
+![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/00d2fa32-ee49-443e-830c-447dc00791d3)
+
+FLAG :
+
+
+
+picoCTF{moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo0o}
+
+
+
+
+
+
