@@ -1,23 +1,18 @@
 LOCAL AUTHORITY
 
 We go to the website and launch our inspector.
-![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/21497160-7bf5-444e-bd19-962160db6c27)
+![Screenshot (511)](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/9984006c-aab6-4e61-a30e-e3e04fde0124)
+
 
 
  
 Upon a login attempt:
-![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/0eb0d119-aa15-4c62-86c0-85364777eb48)
+![Screenshot (512)](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/f586993a-4724-4112-b0c2-42a8a13234af)
+
+
 
  
 
-
-
-
-We now have 3 new files:
-
-
-
-![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/9929e34d-ac88-4412-bfc7-4ed0719f9d1a)
 
 
  
