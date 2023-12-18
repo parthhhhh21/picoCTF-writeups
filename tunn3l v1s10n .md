@@ -12,7 +12,7 @@ Let's change the file extension to .bmp and since it still doesn't open, so comp
 
 ![Screenshot (515)](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/f17b611e-feb2-45bc-a79a-7997b9ddc095)
 
-and got a picture in which it says "notaflag{sorry}"
+and got a picture in which it says "notaflag{sorry}" [couldn't upload the .bmp file]
 
 It's about 2MB in size for such a tiny image. That doesn't seem right. Height for a BMP file is at offset 0016h. I changed offset 0017h from 0x01 to 0x03.
 
