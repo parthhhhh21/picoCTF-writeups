@@ -1,6 +1,6 @@
 There's no file extension so we don't actually know what type of file it is.
 
-Let's open this with a hex editor like HxD to check the intended file type. The first two characters are BM which indicates a BMP file.
+Let's open this with a online hex editor to check the intended file type. The first two characters are BM which indicates a BMP file.
 
 ![Screenshot (514)](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/0184360b-a8bd-407b-be47-b89eb9984eef)
 
