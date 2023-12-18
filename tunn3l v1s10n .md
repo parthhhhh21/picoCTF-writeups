@@ -1,3 +1,6 @@
+tunn3l v1s10n :
+
+
 There's no file extension so we don't actually know what type of file it is.
 
 Let's open this with a online hex editor to check the intended file type. The first two characters are BM which indicates a BMP file.
