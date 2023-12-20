@@ -1,4 +1,5 @@
-MacroHard WeakEdge
+## Macrohard Weakedge
+### Approach :
 
 connected via wget https://mercury.picoctf.net/static/2e739f9e0dc9f4c1556ea6b033c3ec8e/Forensics%20is%20fun.pptm : 
 
@@ -30,7 +31,7 @@ which had to be converted from base64 to ascii which gave the flag :
 
 ![Screenshot 2023-12-20 194422](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/c273aefd-14c3-4db2-8d00-bb427af2aaab)
 
-FLAG : 
+### FLAG : 
 
 
 picoCTF{D1d_u_kn0w_ppts_r_z1p5}
