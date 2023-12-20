@@ -1,4 +1,6 @@
-MOD1
+## mod1 
+
+### Approach :
 
 
 Created a first list called message with the text from the question(message.txt)
@@ -20,7 +22,7 @@ Finally, a for loop which will get every number of the message and run it in the
 
  
 
-FLAG :
+### FLAG :
 
 
 
