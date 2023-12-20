@@ -1,6 +1,6 @@
-Buffer overflow 0:
+## buffer overflow 0:
 
-
+### Approach : 
 
 The one thing that I noticed is that we are printing the flag on a segmentation fault, which is an error. If the flag printf() resides within sigsegv_handler(), then we can safely assume that we must figure out how to trigger a segmentation fault.
 
@@ -19,7 +19,7 @@ On segmentation fault :
 
 We get the flag!
 
-FLAG :
+### FLAG :
 
 
 
