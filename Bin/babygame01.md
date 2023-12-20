@@ -1,4 +1,6 @@
-babygame01 
+## babygame01 
+
+### Approach : 
 
 opened the webshell and connected using nc saturn.picoctf.net 51073
 
@@ -22,7 +24,7 @@ it flashed a message "You win!" along with the flag :
 ![Screenshot 2023-12-19 204327](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/25a46440-9c36-4fef-8148-bc7cc8f2afe0)
 
 
-FLAG : 
+### FLAG : 
 
 
 picoCTF{gamer_m0d3_enabled_e282d353}
