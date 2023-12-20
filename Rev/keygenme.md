@@ -1,6 +1,6 @@
-KEYGENME-PY
+## Keygenme-py
 
-
+### Approach :
 •	This program contains the first part called key_part_static1_trial that has the first part of the flag: picoCTF{1n_7h3_|<3y_of_. The portion of the flag we need to find if key_part_dynamic1_trial.
 
 
@@ -19,7 +19,7 @@ KEYGENME-PY
 
 
 
-FLAG :
+### FLAG :
 
 
 picoCTF{1n_7h3_|<3y_of_f911a486}
