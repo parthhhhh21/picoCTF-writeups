@@ -1,5 +1,5 @@
-tunn3l v1s10n :
-
+## tunn3l v1s10n 
+### Approach :
 
 There's no file extension so we don't actually know what type of file it is.
 
@@ -25,7 +25,7 @@ and finally, got the full picture in which the flag was visible.
 
 <img width="567" alt="old" src="https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/31737355-73cc-433c-8b22-2ad7e0a450d6">
 
-FLAG :
+### FLAG :
 
 picoCTF{qu1t3_a_v13w_2020}
 
