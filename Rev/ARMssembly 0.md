@@ -1,4 +1,6 @@
-ARMssembly 0 :
+## ARMssembly 0 
+
+### Approach :
 
 The main part of this code is func1 :
 
@@ -16,7 +18,7 @@ Therefore, the function (func1) is to compare the two inputs and return the larg
 
 ![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/4a2d6f5e-7bf7-4b08-8d58-c938f4305e3b)
 
-FLAG :
+### FLAG :
 
 
 
