@@ -1,4 +1,6 @@
-Stonks :
+ ## stonks 
+
+### Approach : 
 
 
 Connected to nc mercury.picoctf.net 16439 and got the following :
@@ -19,7 +21,7 @@ As you can see ,the string  'ocip{FTC0l_I4_t5m_ll0m_y_y3nbc7ceac6ÿ»}' needs to
 ![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/e22428e6-70b1-4570-bb2b-d8b6eedd3c4e)
 
 
-FLAG :
+### FLAG :
 
 
 picoCTF{I_l05t_4ll_my_m0n3y_c7cb6cae}
