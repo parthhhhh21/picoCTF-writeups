@@ -1,5 +1,5 @@
-trivial ftp 
-
+## Trivial FTP
+### Approach :
 
 downloaded wireshark to see the files : 
 
@@ -35,7 +35,7 @@ With "DUEDILIGENCE" as the password, steghide revealed there's a flag.txt hidden
 
 used a command "cat flag.txt" to see the contents of the file which gave the flag :
 
-FLAG :
+### FLAG :
 
 picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}
 
