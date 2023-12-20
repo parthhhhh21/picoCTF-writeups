@@ -1,4 +1,6 @@
-miniRSA
+## miniRSA
+
+### Approach :
 
  The modulus N is far too large to factor. However, there is a caveat. c = pow(m,e,n). 
  However, what if m ^ e < n? Then the modulus never comes into play, and c = m ^ e. Not only that, but e in this case is very small: 3.
@@ -26,7 +28,7 @@ this is a hex and thus, can be converted to ASCII and we get the flag.
 
 
 
-FLAG :
+### FLAG :
 
 picoCTF{n33d_a_lArg3r_e_d0cd6eae}
 
