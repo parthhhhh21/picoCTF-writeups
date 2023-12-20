@@ -1,6 +1,6 @@
-GDB Babystep 1 :
+## GDB Baby Step 1 
 
-
+### Approach :
 First, let’s open the downloaded file ‘debugger0_a’ :
 
 ![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/804ae262-dacc-40de-a7cb-34cad7a2e97d)
@@ -19,7 +19,7 @@ As given in the question, the flag is in the eax register , which is “0x86342�
 
 ![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/a505392d-24cd-43e3-ac79-e142b3aac228)
 
-FLAG :
+### FLAG :
 
 
 picoCTF{549698}
