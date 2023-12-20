@@ -1,4 +1,6 @@
-NEW CAESAR
+## new caesar 
+
+### Approach :
 
 
 Decided to write code to make the program run in reverse.
@@ -24,7 +26,7 @@ I looped through each value of enc and converted it for each possible key. We kn
 ![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/66408cbf-ff16-43d8-9ab1-b4ce5c987c92)
 
 
-FLAG :
+### FLAG :
 
 
 
