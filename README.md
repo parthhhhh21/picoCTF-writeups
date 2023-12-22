@@ -6,6 +6,6 @@
 | Reverse Engineering |   3   |    0    |
 | Forensics           |   3   |    0    |
 | Binary Exploitation |   3   |    0    |
-| Cryptography        |   3   |    0    |
+| Cryptography        |   5   |    0    |
 | General Skills      |   1   |    0    |
-| Total               |   24  |    0    |
+| Total               |   27  |    0    |
