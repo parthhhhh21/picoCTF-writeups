@@ -1,4 +1,4 @@
-## MOd 26
+## Mod 26
 
 ### Approach :
 
