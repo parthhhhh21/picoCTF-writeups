@@ -7,4 +7,5 @@
 | Forensics           |   3   |    0    |
 | Binary Exploitation |   3   |    0    |
 | Cryptography        |   3   |    0    |
+| General Skills      |   1   |    0    |
 | Total               |   24  |    0    |
