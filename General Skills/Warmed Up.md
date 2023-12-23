@@ -2,9 +2,12 @@
 
 ### Approach :
 
-A quick google search to find the flag :
+A quick conversion from hex to decimal got me the flag :
 
-![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/06b4c8a9-7cbf-477e-8451-b1231d745953)
+![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/651928bc-fba2-4527-950e-cc323df39c98)
+
+
+
 
 
 ### FLAG :
