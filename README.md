@@ -8,4 +8,4 @@
 | Binary Exploitation |   3   |    0    |
 | Cryptography        |   5   |    0    |
 | General Skills      |   8   |    0    |
-| Total               |   44  |    0    |
+| Total               |   45  |    0    |
