@@ -10,7 +10,7 @@ came to know that this is .pb file so, thought of converting this file to a png 
 
 ![image](https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/5623cb5b-1bba-46d0-a454-7213afaaa3f5)
 
-downloaded the new created png file :
+downloaded the newly created png file :
 
 <img width="1224" alt="m" src="https://github.com/parthhhhh21/picoCTF-writeups/assets/148140667/89685016-77d1-4ccf-b1cd-62992adca013">
 
